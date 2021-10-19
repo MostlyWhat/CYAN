@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "49tYTGao1DsMHt1pmqo5UBB8Mt5TydBL37ajhDW73gWCOSd7CN9fw9VItAWM7VvsyYDiw+0NGW233DZvRGOU+w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\CYAN\\CYAN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
