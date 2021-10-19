@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,10 +26,22 @@ namespace CYAN
         {
             InitializeComponent();
         }
-
-        private void LaunchGitHubSite(object sender, RoutedEventArgs e)
+        public static void OpenURL(string url)
         {
-            // Launch the GitHub site...
+            try
+            {
+                Process.Start(url);
+            }
+            catch
+            {
+                url = url.Replace("&", "^&");
+                Process.Start(new ProcessStartInfo("cmd", $"/c start {url}") { CreateNoWindow = true });
+            }
+        }
+        private void MainMenu(object sender, RoutedEventArgs e)
+        {
+
+            OpenURL("https://www.mostlywhat.cf");
         }
 
         private void DeployCupCakes(object sender, RoutedEventArgs e)
