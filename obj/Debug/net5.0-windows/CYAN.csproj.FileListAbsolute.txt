@@ -59,3 +59,4 @@ D:\Projects\CYAN\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.WeatherIcons.d
 D:\Projects\CYAN\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
 D:\Projects\CYAN\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.dll
 D:\Projects\CYAN\obj\Debug\net5.0-windows\App.baml
+D:\Projects\CYAN\obj\Debug\net5.0-windows\CYAN.csproj.AssemblyReference.cache

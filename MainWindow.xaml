@@ -40,6 +40,7 @@
     </mah:MetroWindow.RightWindowCommands>
     
     <Grid>
+        <mah:Tile Content="Tile" HorizontalAlignment="Left" Margin="138,184,0,0" VerticalAlignment="Top" Click="Tile_Click"/>
 
     </Grid>
 </mah:MetroWindow>

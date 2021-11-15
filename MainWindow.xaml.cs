@@ -48,5 +48,10 @@ namespace CYAN
         {
             // deploy some CupCakes...
         }
+
+        private void Tile_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
